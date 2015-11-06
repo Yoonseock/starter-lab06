@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Order #2 will have three cheeseburgers for George, and takeout
+many burgers
 -->
 
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>

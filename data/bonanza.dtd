@@ -61,3 +61,5 @@ and one on bottom, and provide for unique codes for these. -->
 
 <!-- A name can be anything for now - we'll validate it later -->
 <!ELEMENT name (#PCDATA)>
+
+<!-- check by yoon -->
